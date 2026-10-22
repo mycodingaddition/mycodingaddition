@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Shiva. Founder of Horvans. Engineering addict and coding addict, contributing to a better world." width="100%">
+  <img src="assets/banner-light.svg" alt="Aarav. Founder of Horvans. Engineering addict and coding addict, contributing to a better world." width="100%">
 </picture>
 
 <p align="center"><i>Some people leave footprints. I would rather leave doorways.</i></p>
