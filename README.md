@@ -1,12 +1,12 @@
 ### Hi, I'm Shiva
 
-I'm the founder of [Horvans](https://horvans.com). We build **Horvan Edu Coaching**, an all-in-one app for coaching centres in India.
+Founder of [Horvans](https://horvans.com). An engineering addict and a coding addict.
 
-- Live classes, online tests, fees and attendance in one place
-- Separate views for admins, teachers, students and parents
-- Built for low-cost phones and slow mobile data
-- In English and Tamil, with more Indian languages on the way
+I build because I believe technology, done right, can make the world a better place for everyone, not just a few.
 
-Most of my work lives in private repositories under [@horvans](https://github.com/horvans).
+**My vision**
+- Use engineering to open doors for people: in learning, in work and in everyday life
+- Build things that are simple, honest and made to last
+- Keep learning, keep building, and help others build too
 
-**Website:** [horvans.com](https://horvans.com) - **Horvan Edu Coaching:** [edu.horvans.com](https://edu.horvans.com)
+*Contributing, one line of code at a time, to a better world.*
